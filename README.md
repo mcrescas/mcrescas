@@ -26,8 +26,6 @@ My work revolves around the different aspects of physically-based and differenti
 with mention on both transient and computational imaging. Nevertheless, I’m always looking forward to learning something new!
 </p>
 
-<br/>
-
 ## 📚 Publications
 
 [<img align="left" height="100px" width="150px" alt="Primar-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb.jpg" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/primary-space-cv/)
