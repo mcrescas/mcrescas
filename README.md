@@ -21,6 +21,9 @@ Prior to joining EPFL, I studied a <strong>Bachelor's degree in Computer Science
 in Biomedical Engineering</strong>, both at <a href='https://www.unizar.es/'>UNIVERSIDAD DE ZARAGOZA</a>. 
 During that time and after, I have been a junior researcher in the <a href="https://graphics.unizar.es">GRAPHICS & IMAGING 
 LAB</a> under the supervision of Prof. <a href="http://adolfo-munoz.com">ADOLFO MUÑOZ</a> and Prof. <a href="http://giga.cps.unizar.es/~ajarabo/">ADRIAN JARABO</a>.
+
+My work revolves around the different aspects of physically-based and differentiable rendering, including light transport and reconstruction, 
+with mention on both transient and computational imaging. Nevertheless, I’m always looking forward to learning something new!
 </p>
 
 <br/>
@@ -30,7 +33,7 @@ LAB</a> under the supervision of Prof. <a href="http://adolfo-munoz.com">ADOLFO 
 [<img align="left" height="100px" width="150px" alt="Primar-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb.jpg" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/primary-space-cv/)
 
 [**Primary-Space Adaptive Control Variates using Piecewise-Polynomial Approximations**](https://mcrespo.me/publications/primary-space-cv) \
-𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘 , 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 , 𝙰𝚍𝚘𝚕𝚏𝚘 𝙼𝚞𝚗̃𝚘𝚣 \
+𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘 , 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 𝚊𝚗𝚍 𝙰𝚍𝚘𝚕𝚏𝚘 𝙼𝚞𝚗̃𝚘𝚣 \
 *ACM Transactions on Graphics , 2021* \
 <a href='https://mcrespo.me/publications/primary-space-cv/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/mcrescas/viltrum-mitsuba/'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
