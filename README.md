@@ -3,10 +3,10 @@
 -----
 
 <div align='center' style='margin-top: 20px;'>
-<a href='https://mcrespo.me'><img src="https://img.shields.io/badge/-Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Personal webpage" /></a>
-<a href='https://scholar.google.com/citations?user=NARft-0AAAAJ'><img src="https://img.shields.io/badge/-Scholar-5654a8?style=flat-square&logo=google-scholar&logoColor=white" title="Google Scholar" /></a>
-<a href='https://twitter.com/mcrespo__'><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" title="Twitter" /></a>
-<a href='https://www.linkedin.com/in/mcrescas/'><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" title="LinkedIn" /></a>
+<a href='https://mcrespo.me' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" title="Personal webpage" /></a>
+<a href='https://scholar.google.com/citations?user=NARft-0AAAAJ' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Scholar-5654a8?style=for-the-badge&logo=google-scholar&logoColor=white" title="Google Scholar" /></a>
+<a href='https://twitter.com/mcrespo__' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" title="Twitter" /></a>
+<a href='https://www.linkedin.com/in/mcrescas/'><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn" /></a>
 </div>
 
 <br/>
@@ -27,7 +27,7 @@ LAB</a> under the supervision of Prof. <a href="http://adolfo-munoz.com">ADOLFO 
 
 ## 📚 Publications
 
-[<img align="left" height="100px" width="150px" alt="Primar-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb.jpg" style="margin-right: 10px;"/>](https://mcrespo.me/publications/primary-space-cv/)
+[<img align="left" height="100px" width="150px" alt="Primar-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb.jpg" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/primary-space-cv/)
 
 [**Primary-Space Adaptive Control Variates using Piecewise-Polynomial Approximations**](https://mcrespo.me/publications/primary-space-cv/) \
 𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘 , 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 , 𝙰𝚍𝚘𝚕𝚏𝚘 𝙼𝚞𝚗̃𝚘𝚣 \
