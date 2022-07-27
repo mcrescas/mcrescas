@@ -55,12 +55,14 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 *VSCode Extension* \
 <a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <br/>
+<br/>
 
 [<img align="left" height="100px" width="150px" alt="Blender Mitsuba 1 thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-blenderM1.png" style="margin-right: 10px; border-radius: 20%"/>](https://github.com/mcrescas/BlenderExporterM1)
 
 [**Blender Exporter for Mitsuba 1**](https://github.com/mcrescas/BlenderExporterM1) \
 *Blender plugin with interoperability while exporting to Mitsuba 1* \
 <a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
+<br/>
 <br/>
 
 <br/>
