@@ -53,6 +53,7 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 
 [**VERIV**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
 *VSCode Extension* \
+<br/>
 <a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <br/>
 <br/>
@@ -61,8 +62,8 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 
 [**Blender Exporter for Mitsuba 1**](https://github.com/mcrescas/BlenderExporterM1) \
 *Blender plugin with interoperability while exporting to Mitsuba 1* \
-<a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
+<a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
 
 <br/>
