@@ -28,6 +28,14 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 
 ## 📚 Publications
 
+[<img align="left" height="100px" width="150px" alt="NLOS Scattering thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-nlos.png" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/nlos-scattering-media/)
+
+[**Non-line-of-sight imaging in the presence of scattering media using Phasor Fields**](https://mcrespo.me/publications/nlos-scattering-media/) \
+𝙿𝚊𝚋𝚕𝚘 𝙻𝚞𝚑𝚎𝚜𝚒𝚊*, 𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘*, 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 𝚊𝚗𝚍 𝙰𝚕𝚋𝚎𝚛𝚝 𝚁𝚎𝚍𝚘-𝚂𝚊𝚗𝚌𝚑𝚎𝚣 \
+*Optics Letters , 2022* \
+<a href='https://mcrespo.me/publications/nlos-scattering-media/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
+<br/>
+
 [<img align="left" height="100px" width="150px" alt="Primary-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-primary.jpg" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/primary-space-cv/)
 
 [**Primary-Space Adaptive Control Variates using Piecewise-Polynomial Approximations**](https://mcrespo.me/publications/primary-space-cv) \
@@ -37,17 +45,25 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 <a href='https://github.com/mcrescas/viltrum-mitsuba/'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
 
-[<img align="left" height="100px" width="150px" alt="NLOS Scattering thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-nlos.png" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/nlos-scattering-media/)
+<br/>
 
-[**Non-line-of-sight imaging in the presence of scattering media using Phasor Fields**](https://mcrespo.me/publications/nlos-scattering-media/) \
-𝙿𝚊𝚋𝚕𝚘 𝙻𝚞𝚑𝚎𝚜𝚒𝚊*, 𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘*, 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 𝚊𝚗𝚍 𝙰𝚕𝚋𝚎𝚛𝚝 𝚁𝚎𝚍𝚘-𝚂𝚊𝚗𝚌𝚑𝚎𝚣 \
-*Optics Letters , 2022* \
-<a href='https://mcrespo.me/publications/nlos-scattering-media/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
+## 💾 Projects
+
+[<img align="left" height="100px" width="150px" alt="VERIV thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-veriv.png" style="margin-right: 10px; border-radius: 20%"/>](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv)
+
+[**VERIV**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
+*VSCode Extension* \
+<a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
+<br/>
+
+[<img align="left" height="100px" width="150px" alt="Blender Mitsuba 1 thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-blenderM1.png" style="margin-right: 10px; border-radius: 20%"/>](https://github.com/mcrescas/BlenderExporterM1)
+
+[**Blender Exporter for Mitsuba 1**](https://github.com/mcrescas/BlenderExporterM1) \
+*Blender plugin with interoperability while exporting to Mitsuba 1* \
+<a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
 
 <br/>
-
-<!-- ## 💾 Projects -->
 
 ----
 
