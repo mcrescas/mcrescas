@@ -51,7 +51,7 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 
 [<img align="left" height="100px" width="150px" alt="VERIV thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-veriv.png" style="margin-right: 10px; border-radius: 20%"/>](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv)
 
-[**VERIV**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
+[**VERIV - Vscode Extended Range Imaging Viewer**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
 *VSCode Extension* \
 <br/>
 <a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
