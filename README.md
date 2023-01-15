@@ -14,7 +14,7 @@
 ## ⚡ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <p>
-Hi 👋 I am a <strong>first-year PhD student</strong> in the <a href='https://rgl.epfl.ch/'>REALISTIC GRAPHICS LAB</a> at <a href='https://www.epfl.ch/'>EPFL</a> under 
+Hi 👋 I am a <strong>second-year PhD student</strong> in the <a href='https://rgl.epfl.ch/'>REALISTIC GRAPHICS LAB</a> at <a href='https://www.epfl.ch/'>EPFL</a> under 
 the supervision of Prof. <a href='https://rgl.epfl.ch/people/wjakob'>WENZEL JAKOB</a>.
 
 Prior to joining EPFL, I studied a <strong>Bachelor's degree in Computer Science</strong> and a <strong>Master's degree 
