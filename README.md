@@ -31,7 +31,7 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 [<img align="left" height="100px" width="150px" alt="NLOS Scattering thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-nlos.png" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/nlos-scattering-media/)
 
 [**Non-line-of-sight imaging in the presence of scattering media using Phasor Fields**](https://mcrespo.me/publications/nlos-scattering-media/) \
-𝙿𝚊𝚋𝚕𝚘 𝙻𝚞𝚑𝚎𝚜𝚒𝚊*, 𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘*, 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 𝚊𝚗𝚍 𝙰𝚕𝚋𝚎𝚛𝚝 𝚁𝚎𝚍𝚘-𝚂𝚊𝚗𝚌𝚑𝚎𝚣 \
+𝙿𝚊𝚋𝚕𝚘 𝙻𝚞𝚑𝚎𝚜𝚒𝚊*, 𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘*, 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘, 𝚊𝚗𝚍 𝙰𝚕𝚋𝚎𝚛𝚝 𝚁𝚎𝚍𝚘-𝚂𝚊𝚗𝚌𝚑𝚎𝚣 \
 *Optics Letters , 2022* \
 <a href='https://mcrespo.me/publications/nlos-scattering-media/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <br/>
@@ -39,7 +39,7 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 [<img align="left" height="100px" width="150px" alt="Primary-space thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-primary.jpg" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/primary-space-cv/)
 
 [**Primary-Space Adaptive Control Variates using Piecewise-Polynomial Approximations**](https://mcrespo.me/publications/primary-space-cv) \
-𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘 , 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘 𝚊𝚗𝚍 𝙰𝚍𝚘𝚕𝚏𝚘 𝙼𝚞𝚗̃𝚘𝚣 \
+𝙼𝚒𝚐𝚞𝚎𝚕 𝙲𝚛𝚎𝚜𝚙𝚘 , 𝙰𝚍𝚛𝚒𝚊𝚗 𝙹𝚊𝚛𝚊𝚋𝚘, 𝚊𝚗𝚍 𝙰𝚍𝚘𝚕𝚏𝚘 𝙼𝚞𝚗̃𝚘𝚣 \
 *ACM Transactions on Graphics , 2021* \
 <a href='https://mcrespo.me/publications/primary-space-cv/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/mcrescas/viltrum-mitsuba/'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
