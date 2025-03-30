@@ -40,16 +40,17 @@ Before joining RGL, I earned a Bachelor’s degree in Computer Science and a Mas
 
 [<img align="left" height="100px" width="150px" alt="VERIV thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-veriv.png" style="margin-right: 10px; border-radius: 20%"/>](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv)
 [**VERIV - Vscode Extended Range Imaging Viewer**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
-*VERIV provides support for loading and visualizing LDR / HDR images directly inside Vscode. Apart from that, the viewer contains more useful features than the native one included by default* \
+*VERIV enables in-VS Code loading and visualization of LDR/HDR images, complemented by numerous useful features and remote capabilities.* \
 <br/>
 <a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/mcrescas/veriv/'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://vsmarketplacebadges.dev/downloads-short/mcrespo.veriv.svg">
 <br/>
 <br/>
 
 [<img align="left" height="100px" width="150px" alt="miTransient thumb" src="https://github.com/mcrescas/mcrescas/blob/master/mitransient.png" style="margin-right: 10px; border-radius: 20%"/>](https://github.com/diegoroyo/mitransient)
 [**miTransient - Mitsuba 3 Transient Rendering**](https://github.com/diegoroyo/mitransient) \
-*miTransient is a library adds support to Mitsuba 3 for doing state-of-the-art transient simulations, with amazing support for non-line-of-sight (NLOS) data capture simulations.* \
+*miTransient is a Mitsuba 3 library enabling state-of-the-art transient simulations, including exceptional support for non-line-of-sight (NLOS) data capture.* \
 <br/>
 <a href='https://mitransient.readthedocs.io/en/latest/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/diegoroyo/mitransient'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
@@ -59,7 +60,7 @@ Before joining RGL, I earned a Bachelor’s degree in Computer Science and a Mas
 [<img align="left" height="100px" width="150px" alt="Blender Mitsuba 1 thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-blenderM1.png" style="margin-right: 10px; border-radius: 20%"/>](https://github.com/mcrescas/BlenderExporterM1)
 
 [**Blender Exporter for Mitsuba 1**](https://github.com/mcrescas/BlenderExporterM1) \
-*Blender plugin with interoperability while exporting to Mitsuba 1* \
+*Blender plugin for seamless export to Mitsuba 1.* \
 <br/>
 <a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
@@ -67,7 +68,7 @@ Before joining RGL, I earned a Bachelor’s degree in Computer Science and a Mas
 
 [<img align="left" height="100px" width="150px" alt="CFF thumb" src="https://github.com/mcrescas/mcrescas/blob/master/cff-editor.png" style="margin-right: 10px; border-radius: 20%"/>](https://cff-editor.mcrespo.me/)
 [**Citation File Format (CFF) Online Editor**](https://cff-editor.mcrespo.me/) \
-*Want to quickly add a citation to the Github repo of your paper's public implementation? Using my tool, you only need to enter the DOI/arXiv-ID, and it will automatically generate all the necessary fields.* \
+*With CFF, you can swiftly integrate your publication's citation into your GitHub repository, leveraging automatic data retrieval from a DOI or arXiv ID.* \
 <br/>
 <a href='https://cff-editor.mcrespo.me/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <br/>
