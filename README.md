@@ -1,7 +1,3 @@
-![image](https://github.com/mcrescas/mcrescas/blob/master/Banner_github.gif)
-
------
-
 <div align='center' style='margin-top: 20px;'>
 <a href='https://mcrespo.me' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" title="Personal webpage" /></a>
 <a href='https://scholar.google.com/citations?user=NARft-0AAAAJ' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Scholar-5654a8?style=for-the-badge&logo=google-scholar&logoColor=white" title="Google Scholar" /></a>
@@ -14,16 +10,9 @@
 ## ⚡ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <p>
-Hi 👋 I am a <strong>second-year PhD student</strong> in the <a href='https://rgl.epfl.ch/'>REALISTIC GRAPHICS LAB</a> at <a href='https://www.epfl.ch/'>EPFL</a> under 
-the supervision of Prof. <a href='https://rgl.epfl.ch/people/wjakob'>WENZEL JAKOB</a>.
+👋 Hi! I am a Doctoral Research Assistant at the Realistic Graphics Lab (RGL) at EPFL, working under the supervision of Prof. Wenzel Jakob. My work focuses on physically-based and differentiable rendering to tackle computational imaging and inversion problems.
 
-Prior to joining EPFL, I studied a <strong>Bachelor's degree in Computer Science</strong> and a <strong>Master's degree 
-in Biomedical Engineering</strong>, both at <a href='https://www.unizar.es/'>UNIVERSIDAD DE ZARAGOZA</a>. 
-During that time and after, I have been a junior researcher in the <a href="https://graphics.unizar.es">GRAPHICS & IMAGING 
-LAB</a> under the supervision of Prof. <a href="http://adolfo-munoz.com">ADOLFO MUÑOZ</a> and Prof. <a href="http://giga.cps.unizar.es/~ajarabo/">ADRIAN JARABO</a>.
-
-My work revolves around the different aspects of physically-based and differentiable rendering, including light transport and reconstruction, 
-with mention on both transient and computational imaging. Nevertheless, I’m always looking forward to learning something new!
+Before joining RGL, I earned a Bachelor’s degree in Computer Science and a Master’s in Biomedical Engineering from Universidad de Zaragoza. During and after my studies, I worked as a junior researcher at the Graphics & Imaging Lab, collaborating with Prof. Adolfo Muñoz and Prof. Adrián Jarabo.
 </p>
 
 ## 📚 Publications
@@ -51,10 +40,19 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 
 [<img align="left" height="100px" width="150px" alt="VERIV thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-veriv.png" style="margin-right: 10px; border-radius: 20%"/>](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv)
 [**VERIV - Vscode Extended Range Imaging Viewer**](https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv) \
-*VSCode Extension for opening image files (including EXR) with exposure selection and improved drag/zooming* \
+*VERIV provides support for loading and visualizing LDR / HDR images directly inside Vscode. Apart from that, the viewer contains more useful features than the native one included by default* \
 <br/>
 <a href='https://marketplace.visualstudio.com/items?itemName=mcrespo.veriv'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
 <a href='https://github.com/mcrescas/veriv/'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
+<br/>
+<br/>
+
+[<img align="left" height="100px" width="150px" alt="miTransient thumb" src="https://github.com/mcrescas/mcrescas/blob/master/mitransient.png" style="margin-right: 10px; border-radius: 20%"/>](https://github.com/diegoroyo/mitransient)
+[**miTransient - Mitsuba 3 Transient Rendering**](https://github.com/diegoroyo/mitransient) \
+*miTransient is a library adds support to Mitsuba 3 for doing state-of-the-art transient simulations, with amazing support for non-line-of-sight (NLOS) data capture simulations.* \
+<br/>
+<a href='https://mitransient.readthedocs.io/en/latest/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
+<a href='https://github.com/diegoroyo/mitransient'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
 <br/>
 
@@ -65,7 +63,14 @@ with mention on both transient and computational imaging. Nevertheless, I’m al
 <br/>
 <a href='https://github.com/mcrescas/BlenderExporterM1'><img src="https://img.shields.io/badge/-Repository-4078c0?style=flat-square&logo=Github&logoColor=white" title="Repository" /></a>
 <br/>
+<br/>
 
+[<img align="left" height="100px" width="150px" alt="CFF thumb" src="https://github.com/mcrescas/mcrescas/blob/master/cff-editor.png" style="margin-right: 10px; border-radius: 20%"/>](https://cff-editor.mcrespo.me/)
+[**Citation File Format (CFF) Online Editor**](https://cff-editor.mcrespo.me/) \
+*Want to quickly add a citation to the Github repo of your paper's public implementation? Using my tool, you only need to enter the DOI/arXiv-ID, and it will automatically generate all the necessary fields.* \
+<br/>
+<a href='https://cff-editor.mcrespo.me/'><img src="https://img.shields.io/badge/Project page-3b5998?style=flat-square&logo=google-chrome&logoColor=white" title="Project page" /></a>
+<br/>
 <br/>
 
 ----
