@@ -1,7 +1,6 @@
 <div align='center' style='margin-top: 20px;'>
 <a href='https://mcrespo.me' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" title="Personal webpage" /></a>
 <a href='https://scholar.google.com/citations?user=NARft-0AAAAJ' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Scholar-5654a8?style=for-the-badge&logo=google-scholar&logoColor=white" title="Google Scholar" /></a>
-<a href='https://twitter.com/mcrespo__' style='margin-right: 10px'><img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" title="Twitter" /></a>
 <a href='https://www.linkedin.com/in/mcrescas/'><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn" /></a>
 </div>
 
@@ -10,12 +9,18 @@
 ## ⚡ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 <p>
-👋 Hi! I am a Doctoral Research Assistant at the Realistic Graphics Lab (RGL) at EPFL, working under the supervision of Prof. Wenzel Jakob. My work focuses on physically-based and differentiable rendering to tackle computational imaging and inversion problems.
 
-Before joining RGL, I earned a Bachelor’s degree in Computer Science and a Master’s in Biomedical Engineering from Universidad de Zaragoza. During and after my studies, I worked as a junior researcher at the Graphics & Imaging Lab, collaborating with Prof. Adolfo Muñoz and Prof. Adrián Jarabo.
+As a Computer Science engineer with over six years of experience in high-performance computing and research, I specialize in physically-based and neural rendering, computer vision, and computational imaging. 
+My work bridges the gap between cutting-edge research and robust, high-performance software
+
+My research, published in ACM Transactions on Graphics and Optics Letters, demonstrates a deep commitment to innovation, precision, and impact. I have led projects from concept to deployment, authored award-winning thesis, and developed tools such as VERIV (13.3k+ installs) and MiTransient (Best Poster ICCP 2024, 7.8k+ downloads), now used by researchers worldwide.
 </p>
 
+<br/>
+
 ## 📚 Publications
+
+\* Equal contribution
 
 [<img align="left" height="100px" width="150px" alt="NLOS Scattering thumb" src="https://github.com/mcrescas/mcrescas/blob/master/thumb-nlos.png" style="margin-right: 10px; border-radius: 20%"/>](https://mcrespo.me/publications/nlos-scattering-media/)
 
