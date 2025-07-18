@@ -10,10 +10,10 @@
 
 <p>
 
-As a Computer Science engineer with over six years of experience in high-performance computing and research, I specialize in physically-based and neural rendering, computer vision, and computational imaging. 
+As a Computer Science engineer with over six years of experience in high-performance computing and research, I specialize in physically-based and neural rendering, computer vision, computational imaging, and AI. 
 My work bridges the gap between cutting-edge research and robust, high-performance software — most notably through contributions to Mitsuba 3.
 
-My research, published in ACM Transactions on Graphics and Optics Letters, demonstrates a deep commitment to innovation, precision, and impact. I have led projects from concept to deployment, authored award-winning thesis, and developed tools such as VERIV (13.3k+ installs) and MiTransient (Best Poster ICCP 2024, 7.8k+ downloads), now used by researchers worldwide.
+My research, published in ACM Transactions on Graphics and Optics Letters, demonstrates a deep commitment to innovation, precision, and impact. I have led projects from concept to deployment, authored award-winning thesis, and developed tools such as VERIV (13.7k+ installs) and MiTransient (Best Poster ICCP 2024, 7.8k+ downloads), now used by researchers worldwide.
 </p>
 
 <br/>
